@@ -1,5 +1,5 @@
-## Sarah's CV
-This is the CV for Sarah L. R. Stevens.  Branches are for special versions, for a specific application, generally.
+## Evan's CV
+This is the CV for Evan R. Rees.  Branches are for special versions, for a specific application, generally.
 
 ### Background
 Using the template from <https://github.com/mszep/pandoc_resume>.  Thanks!
